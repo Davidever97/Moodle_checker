@@ -1,0 +1,70 @@
+Indice degli argomenti
+Annunci
+Forum
+Link to lectures
+URL
+Thursday 14:00-16:00
+Friday 10:30-12:30
+Exe: Friday 12:30-13:30
+Exam
+Lancia Safe Exam Browser (Windows 7, 8.1, 10)
+File
+SEB password "unibg"
+Lancia Safe Exam Browser (MacOS 10.10 o superiore)
+File
+SEB password "unibg"
+Room A (starting at 09:45) - Students with surname starting with a letter in the range A-F
+Room B (starting at 10:00) - Students with surname starting with a letter in the range G-P
+Room C (starting at 10:15) - Students with surname starting with a letter in the range Q-Z
+Link to exam January 2021 - A
+URL
+Link to exam January 2021 - B
+URL
+Link to exam January 2021 - C
+URL
+Ongoing evaluation (participation and project)
+Evaluation of participation and project
+File
+Project work
+Project Work
+File
+Variables description
+File
+Datasets
+Cartella
+Projectwork presentations
+File
+Presentation submissions
+Compito
+Project (optional) for non-attending students
+Project registration
+Questionario
+Project instructions
+File
+Project submission
+Compito
+Datasets
+Cartella
+Topic: Introduction to Market Regulation
+Topic: History and Theories of Regulation
+Topic: Efficiency and competition
+Tutorial 1
+Topic: Market failures (1)
+Tutorial 2
+Topic: Market failures (2)
+Tutorial 3
+Topic: Efficiency, equity and need in health care
+Tutorial 4: Project work and introduction to STATA
+Tutorial 5: Inequality measures
+Topic: Industry regulation
+Tutorial 6: Sustainable prices and entry
+Topic: Pricing principles
+Tutorial 7: Pricing principles
+Tutorial 8: Peak-load pricing
+Topic: Market access and access pricing
+Tutorial 9: Access pricing
+Topic: Regulated firms and incentives
+Tutorial 10: Price cap and congestion charges
+Topic: Price regulation of health care firms
+Topic: Social regulation
+Topic: Environmental and energy regulation
